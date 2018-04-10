@@ -7,8 +7,8 @@ Install instructions:
 
 -Enable developer mode in top right corner
 
--Click "Load Unpacked" in tope menu
+-Click "Load Unpacked" in top menu
 
 -Select the Melon Trumper directory
 
--Enjoy :)
+-Enjoy ;)
