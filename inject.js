@@ -15,4 +15,4 @@ function imageReplace() {
   }
 }
 
-setInterval(function() {imageReplace()}, Math.floor(Math.random() * 20));
+setInterval(imageReplace(), Math.floor(Math.random() * 20));
