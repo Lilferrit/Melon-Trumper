@@ -1,7 +1,7 @@
 # Melon-Trumper
 A chrome plugin that replaces all the images on a webpage with flashing images of Melon Trump.
 
-Install instructions:
+Installation instructions:
 
 -Enter chrome://extensions in the chrome search bar
 
