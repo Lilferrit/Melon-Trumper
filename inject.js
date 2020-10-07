@@ -15,4 +15,9 @@ function imageReplace() {
   }
 }
 
-setInterval(imageReplace, Math.floor(Math.random() * 20));
+
+function randomInterval() {
+  return 500+Math.floor(Math.random()*500));
+}
+
+setInterval(imageReplace, randomInterval());
