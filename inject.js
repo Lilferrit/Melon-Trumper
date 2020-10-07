@@ -17,7 +17,7 @@ function imageReplace() {
 
 
 function randomInterval() {
-  return 500+Math.floor(Math.random()*500));
+  return 500+Math.floor(Math.random()*500);
 }
 
 setInterval(imageReplace, randomInterval());
